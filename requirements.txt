@@ -1,0 +1,9 @@
+langdetect==1.0.9
+logging==0.4.9.6
+moviepy==1.0.3
+mutagen==1.47.0
+python-dotenv==1.0.1
+pytube==15.0.0
+requests==2.32.3
+spotipy==2.24.0
+youtube-search==2.1.2
